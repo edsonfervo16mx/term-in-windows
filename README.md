@@ -6,10 +6,18 @@ _Add the folder to the Windows path for full functionality._
 _Open the windows console (CMD) and write the name of a bat file, to execute its functionality_
 
 ### Instructions
+_List the files in the directory_
+```
+ls
+```
 _clean the terminal_
 ```
 clear
 ```
+_Remove password from Chrome_
+...
+remove-passwords-chrome
+...
 _Open a mysql connection_
 ```
 db-mysql 127.0.0.1 root 3306
@@ -25,10 +33,6 @@ ifconfig
 _Test connection to google dns_
 ```
 internet
-```
-_List the files in the directory_
-```
-ls
 ```
 _Access the path of a directory, in this case node-server_
 ```
