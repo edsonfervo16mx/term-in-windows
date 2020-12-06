@@ -15,9 +15,9 @@ _clean the terminal_
 clear
 ```
 _Remove password from Chrome_
-...
+```
 remove-passwords-chrome
-...
+```
 _Open a mysql connection_
 ```
 db-mysql 127.0.0.1 root 3306
