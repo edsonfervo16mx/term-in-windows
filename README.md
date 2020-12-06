@@ -7,5 +7,26 @@ _Open the windows console (CMD) and write the name of a bat file, to execute its
 
 ### Instructions
 ```
+clear
+```
+```
+db-mysql 127.0.0.1 root 3306
+```
+```
+home
+```
+```
+ifconfig
+```
+```
+internet
+```
+```
 ls
+```
+```
+node-server
+```
+```
+raiz
 ```
